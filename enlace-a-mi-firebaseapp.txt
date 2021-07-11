@@ -1,0 +1,6 @@
+link: https://alfaweb-e99af.firebaseapp.com/
+user: admin@alfaweb.cl
+pass: password321
+
+1. en la carpeta "/public/img" hay imagenes de crusos para probar.
+2. en el navbar hay un link "cargar data" para cargar a firebase los cursos por defecto.
